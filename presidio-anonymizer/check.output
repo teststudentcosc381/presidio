@@ -1,0 +1,15 @@
+## if students run the check multiple times
+## there will be multiple new check sections
+## only grade the last one
+
+new check
+origin	git@github.com:teststudentcosc381/presidio.git (fetch)
+origin	git@github.com:teststudentcosc381/presidio.git (push)
+0
+text: My name is sjiang1, sjiang1
+items:
+[
+    {'start': 20, 'end': 27, 'entity_type': 'PERSON', 'text': 'sjiang1', 'operator': 'replace'},
+    {'start': 11, 'end': 18, 'entity_type': 'PERSON', 'text': 'sjiang1', 'operator': 'replace'}
+]
+
